@@ -1,17 +1,17 @@
-CASOS DE TESTE — Calculadora MEI
+# CASOS DE TESTE — Calculadora MEI
 
-CT01 — Adicionar venda válida
+# CT01 — Adicionar venda válida
 
-Pré-condição: sistema aberto
+# Pré-condição: sistema aberto
 
-Passos:
+# Passos:
 
 1-Inserir valor “100”
 2-inserir data válida
 
 Clicar em “Adicionar”
 
-Resultado esperado:
+# Resultado esperado:
 
 venda é adicionada na lista
 valor aparece corretamente
@@ -21,43 +21,43 @@ sistema não exibe erro
 
 CT02 — Impedir valor vazio
 
-Passos:
+# Passos:
 
 Clicar em “Adicionar” sem preencher campo
 
-Resultado esperado:
+# Resultado esperado:
 
 Sistema bloqueia ação
 Exibe mensagem de erro
 CT03 — Impedir valor negativo
 
-Passos:
+# Passos:
 
 Inserir “-50”
 Clicar em adicionar
 
-Resultado esperado:
+# Resultado esperado:
 
 Sistema rejeita valor
 Mostra mensagem de erro
 CT04 — Soma correta
 
-Passos:
+# Passos:
 
 Adicionar 100
 Adicionar 50
 
-Resultado esperado:
+# Resultado esperado:
 
 Total = 150
 CT05 — Remover venda
 
-Passos:
+# Passos:
 
 Adicionar valor
 Remover item
 
-Resultado esperado:
+# Resultado esperado:
 
 Item removido
 Total atualizado
