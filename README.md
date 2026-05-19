@@ -8,7 +8,7 @@ O objetivo principal deste projeto é realizar testes manuais como um QA, valida
 ---
 
 # Acesso ao sistema
-Link do GitHub Pages: COLOQUE AQUI
+https://gabrielcalcanho.github.io/CalculadoraFaturamentoMEI/
 
 ---
 
@@ -19,6 +19,9 @@ Link do GitHub Pages: COLOQUE AQUI
 - Validação de campos obrigatórios
 
 ---
+
+
+
 
 # Testes realizados
 - Plano de testes criado
